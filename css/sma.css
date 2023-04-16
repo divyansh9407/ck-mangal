@@ -1,4 +1,13 @@
+:root {
+  --primary: #E88F2A;
+  --secondary: #FAF3EB;
+  --light: #FFFFFF;
+  --dark: #2B2825;
+}
+
+
 /*** Navbar ***/
+
 .navbar-dark .navbar-nav .nav-link {
   margin-right: 30px;
   padding: 25px 0;
